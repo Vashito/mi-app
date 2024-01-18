@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+#root{
+    width: 100%;  /* Lo ancho */
+}
+
+h1{
+    color:brown
+}
+
+#btn-Incrementa{
+    background-color: cadetblue;
+}
+
+#btn-Decrementa{
+    background-color: rgb(183, 0, 255);
+}
+
+#btn-Reinicia{
+    background-color: aqua;
+}
+
+.btns{
+    color:rgb(1, 1, 22);
+    margin-left: 1px;
+    margin-right: 1px;
+}
